@@ -1,0 +1,10 @@
+models/
+datasets/
+
+__pycache__/
+*.pyc
+.venv/
+.env
+
+*.log
+.DS_Store

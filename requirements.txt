@@ -1,0 +1,16 @@
+llama-cpp-python==0.3.16
+
+fastapi==0.127.0
+uvicorn[standard]==0.40.0
+pydantic==2.12.5
+python-dotenv==1.2.1
+requests
+pypdf
+
+qdrant-client==1.16.2
+sentence-transformers==5.2.0
+numpy==2.4.1
+tqdm==4.67.1
+transformers
+torch
+huggingface-hub
