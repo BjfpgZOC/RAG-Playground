@@ -42,5 +42,7 @@ models/**
 !models/llm/.gitkeep
 
 datasets/**
+!datasets/
+!datasets/raw/
 !datasets/.gitkeep
 !datasets/raw/.gitkeep
